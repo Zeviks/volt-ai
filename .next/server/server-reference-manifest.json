@@ -1,14 +1,5 @@
 {
-  "node": {
-    "26e7fe749b94d3318168b8ec98dbce38abb98071": {
-      "workers": {
-        "app/slice-simulator/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fnathan%2FDesktop%2Fvolt-ai%2Fnode_modules%2F%40slicemachine%2Fadapter-next%2Fdist%2Fsimulator%2Freact-server%2Factions.js%22%2C%5B%22revalidatePath%22%5D%5D%5D&__client_imported__=true!"
-      },
-      "layer": {
-        "app/slice-simulator/page": "action-browser"
-      }
-    }
-  },
+  "node": {},
   "edge": {},
-  "encryptionKey": "232oU+8DiGotVjEN4nOcZEafhdf7+7/Qnvks3pIStds="
+  "encryptionKey": "iXMXSVpGqHMvbP0yzEyqXaidJ7PhOSq3Vk5PQLH0Plk="
 }
